@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T17:34:16 CST" name="Default suite" finished-at="2022-11-23T17:34:29 CST" duration-ms="12665">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T17:34:16 CST" name="Default test" finished-at="2022-11-23T17:34:29 CST" duration-ms="12665">
+      <class name="EjerciciosViernes.Ejercicio3">
+        <test-method signature="invocarNavegador()[pri:0, instance:EjerciciosViernes.Ejercicio3@750e2b97]" started-at="2022-11-23T17:34:16 CST" name="invocarNavegador" finished-at="2022-11-23T17:34:21 CST" duration-ms="4744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invocarNavegador -->
+        <test-method signature="compararTitulos()[pri:1, instance:EjerciciosViernes.Ejercicio3@750e2b97]" started-at="2022-11-23T17:34:21 CST" name="compararTitulos" finished-at="2022-11-23T17:34:21 CST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compararTitulos -->
+        <test-method signature="comandosDeNavegacion()[pri:2, instance:EjerciciosViernes.Ejercicio3@750e2b97]" started-at="2022-11-23T17:34:21 CST" name="comandosDeNavegacion" finished-at="2022-11-23T17:34:28 CST" duration-ms="7565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comandosDeNavegacion -->
+        <test-method signature="cerrarNavegador()[pri:3, instance:EjerciciosViernes.Ejercicio3@750e2b97]" started-at="2022-11-23T17:34:28 CST" name="cerrarNavegador" finished-at="2022-11-23T17:34:29 CST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cerrarNavegador -->
+      </class> <!-- EjerciciosViernes.Ejercicio3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
